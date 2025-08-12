@@ -62,7 +62,7 @@ The bot will:
 	•	/sell <token_address> <amount> — place sell order
 	•	/status — check bot trading status
 
-•	DexScreener & Pump.fun data fetching
+ •	DexScreener & Pump.fun data fetching
 	•	On-chain enrichment (Etherscan & Solscan)
 	•	Filters, blacklists, Pocket Universe volume checks
 	•	Rugcheck.xyz verification + bundled supply blocking
