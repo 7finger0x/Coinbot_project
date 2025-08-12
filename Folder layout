@@ -1,0 +1,19 @@
+coinbot/
+├── coinbot/                   
+│   ├── __init__.py
+│   ├── main.py                 # Your main loop script
+│   ├── enrichment.py
+│   ├── trading.py
+│   ├── telegram_bot.py
+│   ├── database.py
+│   ├── filters.py
+│   ├── fetchers.py
+│   ├── config.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── coin.py
+│   │   └── developer_stats.py
+├── config.json
+├── requirements.txt
+├── README.md
+└── .gitignore
