@@ -17,3 +17,13 @@ coinbot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore local database
+coins.db
+
+# Ignore personal config file
+config.json
